@@ -1,8 +1,8 @@
-import styled from "styled-components";
+import styled from 'styled-components';
 
 export const ScNav = styled.nav`
   margin-bottom: 3rem;
-  background: #141618;
+  background: blue;
 
   nav {
     display: flex;
@@ -23,7 +23,7 @@ export const ScNav = styled.nav`
     font-weight: bold;
     line-height: 18px;
     text-align: center;
-    background: lightcoral;
+    background: red;
     border-radius: 100%;
     width: 18px;
     height: 18px;

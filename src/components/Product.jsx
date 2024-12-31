@@ -1,5 +1,5 @@
-import React from "react";
-import { ScProduct } from "./scParts";
+import React from 'react';
+import { ScProduct } from './scParts';
 
 const Product = (props) => {
   return (
